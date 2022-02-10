@@ -1,19 +1,25 @@
- Olá, Eu sou o Bruno Santana.
+🚧 - README EM CONSTRUÇÃO - 🚧 
+<br>
+ <br> 
  
- Sejá muito bem vindo ao meu portifolio profissional! 
+  Olá, sejá muito bem vindo ao meu GITHUB. 
+ 
+ EU sou o Bruno Santana 🤝🏻 
+
  
 - 🙏🏻 Estou em busca da minha primiera oportundidade no setor de desenvolvimento  
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
 - 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e o Bootcamp da EDUZZ pela DIO
+- 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
 <br>
 
-
-<div align="center">
+ <div align ="center"> <img src="https://komarev.com/ghpvc/?username=BrunooSanttana&color=blue" alt="visitas ao perfil" > 
+ </div>
+<div align="center"> 
   <a href="https://github.com/BrunooSanttana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunooSanttana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooSanttana&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <br>
+</div> <br>  
   <strong> Minhas Skills: <strong>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
