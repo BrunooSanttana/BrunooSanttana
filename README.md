@@ -2,14 +2,10 @@
  
  Sejá muito bem vindo ao meu portifolio profissional! 
  
-- 🔭 Estou em busca da minha primiera oportundidade no setor de desenvolvimento  
-- 🌱 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h
-- 👯 Atualmente estudo Análise e Desenvolvimento de Sistemas e faço bootcamps e cursos para agregar conhecimento 
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🙏🏻 Estou em busca da minha primiera oportundidade no setor de desenvolvimento  
+- 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e o Bootcamp da EDUZZ pela DIO
+<br>
 
 
 <div align="center">
@@ -35,13 +31,6 @@
   <a href="https://www.instagram.com/brunos_santana/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunoliveiraq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-alves-de-oliveira-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </div>
-      
-     
- 
-
-
-
- 
-
-
+    </div>   
+        
+    
