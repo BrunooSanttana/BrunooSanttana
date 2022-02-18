@@ -7,7 +7,7 @@
  EU sou o Bruno Santana 🤝🏻 
 
  
-- 🙏🏻 Estou em busca da minha primiera oportundidade no setor de desenvolvimento  
+- 🙏🏻 Estou em busca da minha primeira oportunidade no setor de desenvolvimento  
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
 - 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e o Bootcamp da EDUZZ pela DIO
 - 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
