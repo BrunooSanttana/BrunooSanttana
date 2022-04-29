@@ -9,7 +9,7 @@
  
 - 🙏🏻 Estou em busca da minha primeira oportunidade no setor de desenvolvimento  
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e o Bootcamp da EDUZZ pela DIO
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas e faço Bootcamps pela DIO
 - 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
 <br>
 
