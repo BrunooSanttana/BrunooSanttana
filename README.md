@@ -9,7 +9,7 @@
  
 - 👨🏼‍💻 Dev Jr. na empresa Meta Global Tech 
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
-- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas 3/6
+- 📚 Atualmente estudo Análise e Desenvolvimento de Sistemas 4/6
 - 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
 <br>
 
