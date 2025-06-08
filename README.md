@@ -1,16 +1,13 @@
-🚧 - README EM CONSTRUÇÃO - 🚧 
-<br>
- <br> 
- 
+
   Olá, sejá muito bem vindo ao meu GITHUB. 
  
  EU sou o Bruno Santana 🤝🏻 
 
  
-- 👨🏼‍💻 Dev Jr. na empresa Meta Global Tech 
+- 👨🏼‍💻 Dev Full Stack Jr. na empresa Meta Global Tech 
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas 6/6
-- 📚 Estudando Cyber Security
+- 📚 Estudando Cyber Security e Java
 - 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
 <br>
 
