@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=800&lines=👋Olá,+eu+sou+Bruno+Santana;Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+Java+React-Native+PostgreSQL+Docker;Apaixonado+por+Segurança+e+Tecnologia)](https://git.io/typing-svg)
 
-💻 **Full-Stack Developer** apaixonado por tecnologia, segurança e soluções escaláveis.
+💻 **Full-Stack Developer** apaixonado por tecnologia, segurança e soluções escaláveis.<br>
 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas pela Universidade Sumaré**  
 🚀 Especialista em **React, TypeScript, Node.js, Java, PostgreSQL e Docker**.  
 🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team **.  
