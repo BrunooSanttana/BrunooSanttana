@@ -6,8 +6,6 @@
 - 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela universidade Sumaré
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h
 - 📚 Estudando Cyber Security, AWS e Java
-- 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
-<br>
 
  <div align ="center"> <img src="https://komarev.com/ghpvc/?username=BrunooSanttana&color=blue" alt="visitas ao perfil" > 
  </div>
@@ -16,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunooSanttana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooSanttana&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>  
-  <strong> Minhas Skills: <strong>
+   🛠 <strong> Tecnologias & Ferramentas</strong> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
