@@ -37,7 +37,6 @@
 ## 📊 Estatísticas & Conquistas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoosanttana&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoosanttana&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunosanttana&theme=radical)  
 
 ---
 
