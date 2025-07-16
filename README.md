@@ -15,9 +15,52 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunooSanttana&layout=compact&langs_count=7&theme=dark"/>
 </div> <br>  
    🛠 <strong> Tecnologias & Ferramentas</strong> 
-  <div style="display: inline_block"><br>
-<div style="display: inline_block"><br> <!-- React --> <a href="https://reactjs.org/" target="_blank"> <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <span>React</span> </a>&nbsp;&nbsp; <!-- React Native --> <a href="https://reactnative.dev/" target="_blank"> <img align="center" alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <span>React Native</span> </a>&nbsp;&nbsp; <!-- TypeScript --> <a href="https://www.typescriptlang.org/" target="_blank"> <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <span>TypeScript</span> </a>&nbsp;&nbsp; <!-- Node.js --> <a href="https://nodejs.org/" target="_blank"> <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <span>Node.js</span> 
-<span>Java</span> </a>&nbsp;&nbsp; <!-- PostgreSQL --> <a href="https://www.postgresql.org/" target="_blank"> <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <span>PostgreSQL</span> </a>&nbsp;&nbsp; <!-- Docker --> <a href="https://www.docker.com/" target="_blank"> <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <span>Docker</span>   </div>
+ <div style="display: inline_block"><br>
+
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank">
+    <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <span>React</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank">
+    <img align="center" alt="React Native" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <span>React Native</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <span>TypeScript</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <span>Node.js</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <span>Java</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <span>PostgreSQL</span>
+  </a>&nbsp;&nbsp;
+
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <span>Docker</span>
+  </a>
+
+</div>
+
   </div>
     <br>
     <br>
