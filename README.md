@@ -4,7 +4,6 @@
 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas pela Universidade Sumaré**  
 🚀 Especialista em **React, TypeScript, Node.js, Java, PostgreSQL e Docker**.  
 🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team**.
-![Visitas](https://komarev.com/ghpvc/?username=brunoosanttana&color=blue)
 
 
 ---
@@ -44,11 +43,9 @@
 
 ## 🚀 Projetos em Destaque
 
-| Projeto                | Tech Stack                                    | Link                                                                 |
+| Projeto                                    | Tech Stack                                                                                                     | Link                                                                 |
 |------------------------|----------------------------------------------|----------------------------------------------------------------------|
-| **BJ-Tech-Dine Front** | React · TypeScript · Styled Components      | [GitHub](https://github.com/brunoosanttana/bj-tech-dine-front)          |
-| **BJ-Tech-Dine Back**  | Node.js · Express · PostgreSQL · Docker     | [GitHub](https://github.com/brunoosanttana/bj-tech-dine-back)           |
-| **Brecho System**      | React · Node.js · PostgreSQL                |             |
+| **BJ-Tech-Dine ** | React · TypeScript · Styled Components  ·  Node.js · Express · PostgreSQL · Docker     | [GitHub]([https://github.com/brunoosanttana/bj-tech-dine-front](https://github.com/BrunooSanttana/BJ-Tech-Dine))    |
 
 ---
 
