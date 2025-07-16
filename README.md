@@ -3,7 +3,9 @@
 💻 **Full-Stack Developer** apaixonado por tecnologia, segurança e soluções escaláveis.<br>
 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas pela Universidade Sumaré**  
 🚀 Especialista em **React, TypeScript, Node.js, Java, PostgreSQL e Docker**.  
-🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team**.  
+🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team**.
+![Visitas](https://komarev.com/ghpvc/?username=brunoosanttana&color=blue)
+
 
 ---
 
@@ -52,9 +54,9 @@
 
 
 ## 📫 Como me encontrar
-📌[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoo-santtana/)
-📌[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoosanttana)
-📌[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoliveiraq@gmail.com)
+📌[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoo-santtana/) <br>
+📌[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoosanttana) <br>
+📌[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoliveiraq@gmail.com) <br>
 
 
 ---
