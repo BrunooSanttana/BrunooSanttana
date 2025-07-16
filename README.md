@@ -3,7 +3,7 @@
 💻 **Full-Stack Developer** apaixonado por tecnologia, segurança e soluções escaláveis.<br>
 👨🏻‍🎓 **Formado em Análise e Desenvolvimento de Sistemas pela Universidade Sumaré**  
 🚀 Especialista em **React, TypeScript, Node.js, Java, PostgreSQL e Docker**.  
-🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team **.  
+🛡️ Interesses: **Full-Stack Developer / Cyber Security, Blue Team**.  
 
 ---
 
