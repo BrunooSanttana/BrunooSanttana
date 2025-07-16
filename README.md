@@ -45,7 +45,7 @@
 
 | Projeto                                    | Tech Stack                                                                                                     | Link                                                                 |
 |------------------------|----------------------------------------------|----------------------------------------------------------------------|
-| **BJ-Tech-Dine ** | React · TypeScript · Styled Components  ·  Node.js · Express · PostgreSQL · Docker     | [GitHub]([https://github.com/brunoosanttana/bj-tech-dine-front](https://github.com/BrunooSanttana/BJ-Tech-Dine))    |
+| **BJ-Tech-Dine** | React · TypeScript · Styled Components  ·  Node.js · Express · PostgreSQL      | [GitHub](https://github.com/BrunooSanttana/BJ-Tech-Dine)   |
 
 ---
 
