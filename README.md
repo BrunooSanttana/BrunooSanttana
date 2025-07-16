@@ -1,5 +1,3 @@
-
-  Olá, sejá muito bem vindo ao meu GITHUB. 
  
  👋 Olá, eu sou Bruno Santana
 
