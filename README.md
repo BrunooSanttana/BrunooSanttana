@@ -46,7 +46,7 @@
 | Projeto                                    | Tech Stack                                                                                                     | Link                                                                 |
 |------------------------|----------------------------------------------|----------------------------------------------------------------------|
 | **BJ-Tech-Dine** | React · TypeScript · Styled Components  ·  Node.js · Express · PostgreSQL      | [GitHub](https://github.com/BrunooSanttana/BJ-Tech-Dine)<br>   |
-| **Portfólio** | HTML5 · CSS3 · BootStrap  ·  JavaScript       | [GitHub]([https://github.com/BrunooSanttana/BJ-Tech-Dine](https://brunoosanttana.github.io/PortifolioBS/))   |
+| **Portfólio** | HTML5 · CSS3 · BootStrap  ·  JavaScript       | [GitHub](https://brunoosanttana.github.io/PortifolioBS/) |
 
 
 ---
