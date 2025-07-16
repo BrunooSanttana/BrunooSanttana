@@ -6,8 +6,8 @@
  
 - 👨🏼‍💻 Dev Full Stack Jr. na empresa Meta Global Tech 
 - 👨🏻‍🎓 Conclui em 12/2021 um curso de Programação Front-End pelo SENAI com duração de 350h 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas 6/6
-- 📚 Estudando Cyber Security e Java
+- 👨🏻‍🎓 Formado em Análise e Desenvolvimento de Sistemas pela universidade Sumaré
+- 📚 Estudando Cyber Security, AWS e Java
 - 👇🏻 A baixo você vai encontrar estatisticas do meu github, informações sobre minhas skills e minhas redes sociais
 <br>
 
