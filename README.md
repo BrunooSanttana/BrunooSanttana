@@ -11,6 +11,9 @@
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunoo-santtana/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunoosanttana)
+[![Portfólio](https://img.shields.io/badge/-181717?style=for-the-badge)]([https://github.com/brunoosanttana](https://brunoosanttana.github.io/PortifolioBS/)
+
+https://brunoosanttana.github.io/PortifolioBS/
 
 ---
 
