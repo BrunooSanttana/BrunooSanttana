@@ -40,7 +40,9 @@
 - BPMN / Fluxos de Processo  
 - Documentação Funcional  
 - Testes de Aceitação  
-- Apoio à Implantação de Sistemas  
+- Apoio à Implantação de Sistemas <br>
+- CRM
+
 
 ### 💻 Tecnologia (Background Técnico)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
