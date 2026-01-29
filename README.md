@@ -71,9 +71,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoosanttana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoosanttana&layout=compact&theme=radical)
-
----
-
 ![Visitas](https://komarev.com/ghpvc/?username=brunoosanttana&color=blue)
