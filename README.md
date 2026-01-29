@@ -22,10 +22,10 @@
 ✔ Apoio na priorização de demandas (valor de negócio x esforço)  
 ✔ Interface entre negócio, clientes e time técnico  
 ✔ Análise de processos e identificação de melhorias  
-✔ Apoio em implantações, testes e validação com usuários finais 
-✔ Relacionamento duradouro com cliente
-✔ Vendas B2B e B2C
-✔ UPSELL e CROSSELL
+✔ Apoio em implantações, testes e validação com usuários finais <br>
+✔ Relacionamento duradouro com cliente <br>
+✔ Vendas B2B e B2C <br>
+✔ UPSELL e CROSSELL 
 
 
 
